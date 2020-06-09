@@ -12,3 +12,5 @@ This assignment will talk about:
 - Structure a speech recognition project
 - Synthesize and process audio recordings to create train/dev datasets
 - Train a trigger word detection model and make predictions
+
+This notebook is derived from the MOOC course [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) by deeplearning.ai
