@@ -13,4 +13,7 @@ This assignment will talk about:
 - Synthesize and process audio recordings to create train/dev datasets
 - Train a trigger word detection model and make predictions
 
+## Model used:
+<img src="images/model.png" style="width:1000px;height:150px;">
+
 This notebook is derived from the MOOC course [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) by deeplearning.ai
